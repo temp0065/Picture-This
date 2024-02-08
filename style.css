@@ -33,7 +33,7 @@ img {
   display: block;
 }
 
-/* Should change the image to fit into second column after height goespast 960 px */
+
 @media (min-width: 960px) {
   .header {
     grid-template-columns: repeat(2, 1fr);
